@@ -12,3 +12,7 @@ develop creat
 iassue/a creat
 issue/b creat 
 issue/b 追加内容ね
+以下issue/c追加内容です
+ i'm C
+ 以下issue/d追加内容です
+ i'm D
